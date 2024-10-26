@@ -4,11 +4,10 @@
 
 <div style="display: flex; align-items: center;">
 <p>I'm a web developer and UX/UI designer, currently halfway through my degree. I'm expanding my knowledge in both front-end and back-end development, and I work as a freelancer. I'm passionate about learning and creating new, productive, innovative, and creative solutions.</p>   
-
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFvNjB4ZDdiM3Jyd3VrczZrdnd5Ym83dW9scXZicmVzeWczMG9pdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.webp" alt="Mi Imagen" width="150" style="margin-right: 10px;" />
 </div>
 
-
+<p>¡Conéctate conmigo en <a href="https://github.com/Molly2605">GitHub</a>
 
 - 🌸 **I’m currently learning**:
 
@@ -28,16 +27,19 @@
 ![JavaScript](https://img.icons8.com/color/40/000000/javascript.png)
 ![HTML](https://img.icons8.com/color/40/000000/html-5.png)
 ![CSS](https://img.icons8.com/color/40/000000/css3.png)
-![React](https://img.icons8.com/color/40/000000/react-native.png)
 ![Python](https://img.icons8.com/color/40/000000/python.png)
 
 <br>
 
 - **Frameworks and Libraries:**
 
-![Vue.js](https://img.icons8.com/color/40/000000/vue-js.png)
-![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png) 
-![Tailwind CSS](https://img.icons8.com/color/40/000000/tailwindcss.png) 
+<div style="display: flex; gap: 10px;">
+    <img src="https://img.icons8.com/color/40/000000/react-native.png" alt="React" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.icons8.com/color/40/000000/angularjs.png" alt="Angular" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.icons8.com/color/40/000000/vue-js.png" alt="Vue.js" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.icons8.com/color/40/000000/bootstrap.png" alt="Bootstrap" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.icons8.com/color/40/000000/tailwindcss.png" alt="Tailwind CSS" style="transition: transform 0.2s; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+</div>
 
 <br>
 
@@ -56,3 +58,4 @@
 
 - [Instagram](https://www.instagram.com/molly.lss/)
 - [LinkedIn ](https://www.linkedin.com/in/milagros-lasschar/)
+
