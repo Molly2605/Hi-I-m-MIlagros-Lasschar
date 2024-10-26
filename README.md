@@ -1,4 +1,4 @@
-# Hi , I'm Molly 💜
+# Hi, I'm Molly 💜
 
 ## About Me
 
