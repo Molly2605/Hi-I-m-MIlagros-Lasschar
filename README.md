@@ -1,1 +1,58 @@
-# Hi-I-m-MIlagros-Lasschar
+# Hi , I'm MIlagros Lasschar 💜
+
+## About Me
+
+<div style="display: flex; align-items: center;">
+<p>I'm a web developer and UX/UI designer, currently halfway through my degree. I'm expanding my knowledge in both front-end and back-end development, and I work as a freelancer. I'm passionate about learning and creating new, productive, innovative, and creative solutions.</p>   
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFvNjB4ZDdiM3Jyd3VrczZrdnd5Ym83dW9scXZicmVzeWczMG9pdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.webp" alt="Mi Imagen" width="150" style="margin-right: 10px;" />
+</div>
+
+
+
+- 🌸 **I’m currently learning**:
+
+    - React
+
+- **Ask me about anything, I am happy to help!**
+
+- 💗 Outside of technology, I love 🎮 playing video games, watching anime, 🎵 listening to music, 📚 reading science fiction books and 🩰 dancing ballet
+
+- 📫 **Reach out to me at:** [mililasschar@gmail.com](mailto:mililasschar@gmail.com)
+
+<br> 
+
+## My Skills Include
+- **Languages:**
+
+![JavaScript](https://img.icons8.com/color/40/000000/javascript.png)
+![HTML](https://img.icons8.com/color/40/000000/html-5.png)
+![CSS](https://img.icons8.com/color/40/000000/css3.png)
+![React](https://img.icons8.com/color/40/000000/react-native.png)
+![Python](https://img.icons8.com/color/40/000000/python.png)
+
+<br>
+
+- **Frameworks and Libraries:**
+
+![Vue.js](https://img.icons8.com/color/40/000000/vue-js.png)
+![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png) 
+![Tailwind CSS](https://img.icons8.com/color/40/000000/tailwindcss.png) 
+
+<br>
+
+- **Other Tools and Technologies:**
+
+![Git](https://img.icons8.com/color/40/000000/git.png)
+![Visual Studio Code](https://img.icons8.com/color/40/000000/visual-studio-code-2019.png)
+![Trello](https://img.icons8.com/color/40/000000/trello.png)
+![Notion](https://img.icons8.com/color/40/000000/notion.png)
+![Behance](https://img.icons8.com/color/40/000000/behance.png)
+
+<br>
+
+
+## Check out my Social Media
+
+- [Instagram](https://www.instagram.com/molly.lss/)
+- [LinkedIn ](https://www.linkedin.com/in/milagros-lasschar/)
